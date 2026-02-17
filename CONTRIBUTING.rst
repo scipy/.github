@@ -11,7 +11,7 @@ When submitting a pull request, we ask you check the following:
 
 1. **Unit tests**, **documentation**, and **code style** are in order.
    For details, please read
-   https://github.com/scipy/scipy/blob/main/HACKING.rst.txt
+   https://docs.scipy.org/doc/scipy/dev/hacking.html
 
    It's also OK to submit work in progress if you're unsure of what
    this exactly means, in which case you'll likely be asked to make
